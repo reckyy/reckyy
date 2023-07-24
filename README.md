@@ -32,5 +32,5 @@
 ***
 
 ### 🏆GitHub profile trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=reckyy&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=reckyy&theme=tokyonight&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
