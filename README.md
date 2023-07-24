@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/reckyy/reckyy/main/profile-summary-card-output/cobalt/0-profile-details.svg" alt="Profile details" />
+  <img src="https://raw.githubusercontent.com/reckyy/reckyy/main/profile-summary-card-output/cobalt/0-profile-details.svg" alt="Profile details" height="200" />
   <img src="https://raw.githubusercontent.com/reckyy/reckyy/main/profile-summary-card-output/cobalt/1-repos-per-language.svg" alt="Repos per language" width="400" />
   <img src="https://raw.githubusercontent.com/reckyy/reckyy/main/profile-summary-card-output/cobalt/3-stats.svg" alt="Stats" width="400" />
 </p>
