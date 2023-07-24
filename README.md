@@ -17,9 +17,11 @@
 </p>
 
 
-[![](https://raw.githubusercontent.com/reckyy/reckyy/main/profile-summary-card-output/cobalt/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/reckyy/reckyy/main/profile-summary-card-output/cobalt/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/reckyy/reckyy/main/profile-summary-card-output/cobalt/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/reckyy/reckyy/main/profile-summary-card-output/cobalt/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/reckyy/reckyy/main/profile-summary-card-output/cobalt/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/reckyy/reckyy/main/profile-summary-card-output/cobalt/0-profile-details.svg" alt="Profile details" />
+  <img src="https://raw.githubusercontent.com/reckyy/reckyy/main/profile-summary-card-output/cobalt/1-repos-per-language.svg" alt="Repos per language" width="400" />
+  <img src="https://raw.githubusercontent.com/reckyy/reckyy/main/profile-summary-card-output/cobalt/3-stats.svg" alt="Stats" width="400" />
+</p>
 
 
 <p align="center"> 
