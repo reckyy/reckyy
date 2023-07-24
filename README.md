@@ -29,4 +29,4 @@
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reckyy&layout=compact&theme=cobalt" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=reckyy)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=reckyy&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
