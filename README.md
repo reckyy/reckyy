@@ -1,7 +1,5 @@
 <h2>I'm reckyy <img height="20" src= "https://github.com/reckyy/reckyy/assets/106903482/c585426e-a21d-449c-9eeb-c509860b4b90" /> </h2> 
 
-***
-
 <p align="left">
   <a href="https://github.com/reckyy/reckyy/">
     <img src="https://komarev.com/ghpvc/?username=reckyy" alt="reckyy" />
