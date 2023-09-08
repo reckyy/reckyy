@@ -4,9 +4,6 @@
   <a href="https://github.com/reckyy/reckyy/">
     <img src="https://komarev.com/ghpvc/?username=reckyy" alt="reckyy" />
   </a>
-  <a href="http://twitter.com/recky4711692">
-    <img height="20" src="https://img.shields.io/twitter/follow/recky4711692?label=Twitter&logo=twitter&style=flat" />
-  </a>
   <a href="https://github.com/reckyy">
     <img height="20" src="https://img.shields.io/github/followers/reckyy?label=follow&logo=github&style=flat" />
   </a>
