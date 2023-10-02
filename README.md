@@ -1,15 +1,5 @@
 <h2>I'm reckyy <img height="20" src= "https://github.com/reckyy/reckyy/assets/106903482/c585426e-a21d-449c-9eeb-c509860b4b90" /> </h2> 
 
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/reckyy/reckyy/main/profile-summary-card-output/cobalt/0-profile-details.svg" alt="Profile details"  />
-  <img src="https://raw.githubusercontent.com/reckyy/reckyy/main/profile-summary-card-output/cobalt/1-repos-per-language.svg" alt="Repos per language" width="400" />
-  <img src="https://raw.githubusercontent.com/reckyy/reckyy/main/profile-summary-card-output/cobalt/3-stats.svg" alt="Stats" width="400" />
-</p>
-
-
 <p align="center"> 
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api?username=reckyy&theme=cobalt&count_private=true" />
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reckyy&layout=compact&theme=cobalt&count_private=true" />
