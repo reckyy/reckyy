@@ -1,19 +1,6 @@
 <h2>I'm reckyy <img height="20" src= "https://github.com/reckyy/reckyy/assets/106903482/c585426e-a21d-449c-9eeb-c509860b4b90" /> </h2> 
 
-<p align="left">
-  <a href="https://github.com/reckyy/reckyy/">
-    <img src="https://komarev.com/ghpvc/?username=reckyy" alt="reckyy" />
-  </a>
-  <a href="https://github.com/reckyy">
-    <img height="20" src="https://img.shields.io/github/followers/reckyy?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="http://qiita.com/reckyy">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/reckyy/posts.svg" />
-  </a>
-  <//qiita.com/reckyy">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/reckyy/contributions.svg" />
-  </a>
-</p>
+
 
 
 <p align="center">
