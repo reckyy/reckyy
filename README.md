@@ -10,3 +10,9 @@
 ### 🏆GitHub profile trophy
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=reckyy&theme=tokyonight&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reckyy/reckyy/master/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reckyy/reckyy/master/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/reckyy/reckyy/master/img/snake.svg">
+</picture>
